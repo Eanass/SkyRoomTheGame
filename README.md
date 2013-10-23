@@ -1,4 +1,4 @@
-Skyroom
+﻿Skyroom
 =======
 
 Code Source du projet Skyroom réalisé par des étudiants de l'ENSISA en 2013
@@ -15,3 +15,5 @@ Membres du projet :
 
 
 Plus d'infos : http://skyroom-game.tk
+
+Remy BG !
